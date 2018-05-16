@@ -1,7 +1,6 @@
 ---
 title: Inscription pour "product owner"
 description: Liste pour s'inscrire à la session
-image_url: https://github.com/walkingdev/product-owner/blob/master/media/cover-walking-dev.jpg?raw=true
 ---
 
 #### Inscriptions
