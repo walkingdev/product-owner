@@ -1,7 +1,7 @@
 ---
 title: Product owner
 description: Partager des trucs et astuces autour de l'activité de product owner
-image_url: https://github.com/walkingdev/apprendre/blob/master/media/cover-walking-dev.jpg?raw=true
+image_url: https://github.com/walkingdev/product-owner/blob/master/media/cover-walking-dev.jpg?raw=true
 ---
 
 # Product owner
