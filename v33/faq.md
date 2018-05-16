@@ -10,7 +10,7 @@ image_url: https://github.com/walkingdev/product-owner/blob/master/media/cover-w
 
 ### On va faire quoi ?
 
-Nous allons explorer les facettes de l'activité de product owner pour partager nos expériences ou découvrir ensemble ce rôle dans la gestion de projet agile.
+Nous allons explorer les facettes de l'activité de Product-Owner pour partager nos expériences ou découvrir ensemble ce rôle dans la gestion de projet agile.
 
 On va par exemple parler des interactions entre les parties prenantes et l'équipe de développement, des activité réalisées par les products owners dans les projets de type scrum, de l'extension de ces activités dans les projets qui n'ont rien à voir avec le numérique...
 
