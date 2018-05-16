@@ -61,7 +61,7 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 ### Je m'inscris où ?
 
-Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/product-owner/edit/master/v34/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'[inscriptions](http://walkingdev.fr/#walkingdev/product-owner/blob/master/v34/inscriptions.md).
+Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/product-owner/edit/master/v33/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'[inscriptions](http://walkingdev.fr/#walkingdev/product-owner/blob/master/v33/inscriptions.md).
 Si tu n'est pas à l'aise pour t'inscrire sur Github et éditer un fichier en ligne tu peux également utiliser ce [questionnaire](https://framaforms.org/walkingdev-apprendre-1524695210) hébergé chez framasoft.
 Tu peux aussi nous envoyer un mail :[stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 
