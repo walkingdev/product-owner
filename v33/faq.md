@@ -10,23 +10,23 @@ image_url: https://github.com/walkingdev/product-owner/blob/master/media/cover-w
 
 ### On va faire quoi ?
 
-Nous allons explorer les facettes de l'activité de Product-Owner pour partager nos expériences ou découvrir ensemble ce rôle dans la gestion de projet agile.
+Nous allons explorer les facettes de l'activité de Product Owner pour partager nos expériences ou découvrir ensemble ce rôle dans les contextes de fabrication de produits en mode agile.
 
-On va par exemple parler des interactions entre les parties prenantes et l'équipe de développement, des activité réalisées par les products owners dans les projets de type scrum, de l'extension de ces activités dans les projets qui n'ont rien à voir avec le numérique...
+On va par exemple parler des interactions entre les parties prenantes et l'équipe de développement, des activité réalisées par les Products-Owners dans le cadre de Scrum, de l'extension de ces activités dans les réalisations qui n'ont rien à voir avec le numérique, de la différence entre Product Manager et Product Owenr
 
-On va également échanger autour de l'outillage utile et de la posture favorable à l'accomplissement de ce rôle : rituels d'animation du projet, auto-organisation, en s'inspirant de certaines pratiques issues de l'expérience des participant.es.
+On va également échanger autour de l'outillage utile et de la posture favorable à l'accomplissement de ce rôle : rituels d'animation du projet, auto-organisation, en s'inspirant de certaines pratiques issues de l'expérience des participant.e.s.
 
-Et partager autour de nos pratiques notamment en déambulant dans la ville mais pas que.
+Et, partager autour de nos pratiques notamment en déambulant dans la ville mais pas que.
 
 ### C'est quand et où ?
 
-L'exploration commencera le  juin à 9h - [Au café Laiton](https://www.facebook.com/Cafelaiton) - marché des Capucins.
+L'exploration commencera le  1er juin à 9h - [Au café Laiton](https://www.facebook.com/Cafelaiton) - marché des Capucins.
 Et, ça se termine vers 18h30 pour enchainer sur des trucs encore plus informels au cours de la journée.
 
 ### C'est pour qui ?
 
-* Les personnes curieuses de découvrir les activités de product owner.
-* Les products owners qui souhaitent partager leurs expériences.
+* Les personnes curieuses de découvrir les activités de Product Owner.
+* Les Products Owners qui souhaitent partager leurs expériences.
 * Les animateurs de réseau qui souhaitent découvrir des pratiques issues d'autres cultures.
 
 ### Je me sens pas très à l'aise…
@@ -62,7 +62,7 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 ### Je m'inscris où ?
 
 Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/product-owner/edit/master/v33/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'[inscriptions](http://walkingdev.fr/#walkingdev/product-owner/blob/master/v33/inscriptions.md).
-Si tu n'est pas à l'aise pour t'inscrire sur Github et éditer un fichier en ligne tu peux également utiliser ce [questionnaire](https://framaforms.org/walkingdev-apprendre-1524695210) hébergé chez framasoft.
+Si tu n'est pas à l'aise pour t'inscrire sur Github et éditer un fichier en ligne tu peux également utiliser ce [questionnaire](https://framaforms.org/walkingdev-product-owner-1526468357) hébergé chez framasoft.
 Tu peux aussi nous envoyer un mail :[stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 
 ### Ça coûte combien cette petite escapade ?
@@ -75,7 +75,7 @@ Pour les formalités administratives, quelques éléments :
 * Organisme formateur : scopyleft
 * Adresse du lieu de stage : Café laiton, Marché des capucins, 33800 Bordeaux
 * devis HT et TTC : 109 H.T (130,8 T.T.C)
-* date :  juin de 9h à 18h30
+* date : 1er juin de 9h à 18h30
 
 ### Et où passe tout ce butin ?
 
