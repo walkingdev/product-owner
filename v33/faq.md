@@ -1,5 +1,5 @@
 ---
-title: Product owner
+title: FAQ
 description: Partager des trucs et astuces autour de l'activité de product owner
 image_url: https://github.com/walkingdev/product-owner/blob/master/media/cover-walking-dev.jpg?raw=true
 ---
