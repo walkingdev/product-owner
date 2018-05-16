@@ -1,7 +1,7 @@
 ---
-title: Inscription pour "apprendre ensemble"
+title: Inscription pour "product owner"
 description: Liste pour s'inscrire à la session
-image_url: https://github.com/walkingdev/apprendre/blob/master/media/cover-walking-dev.jpg?raw=true
+image_url: https://github.com/walkingdev/product-owner/blob/master/media/cover-walking-dev.jpg?raw=true
 ---
 
 #### Inscriptions
@@ -12,4 +12,3 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/m
 * *nom - prénom - moyens de contact *
 * Langlois - Stéphane - stephane@scopyleft.fr
 * Pascal - Romain - keronos@protonmail.com
-* Cassaigne - Anthony
