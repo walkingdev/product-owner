@@ -14,7 +14,7 @@ Nous allons explorer les facettes de l'activité de product owner pour partager 
 
 On va par exemple parler des interactions entre les parties prenantes et l'équipe de développement, des activité réalisées par les products owners dans les projets de type scrum, de l'extension de ces activités dans les projets qui n'ont rien à voir avec le numérique...
 
-On va également échanger autour de l'outillage utile et de la posture favorable à l'accmplissement de ce rôle : rituels d'animation du projet, auto-organisation, en s'inspirant de certaines pratiques issues de l'expérience des participant.es.
+On va également échanger autour de l'outillage utile et de la posture favorable à l'accomplissement de ce rôle : rituels d'animation du projet, auto-organisation, en s'inspirant de certaines pratiques issues de l'expérience des participant.es.
 
 Et partager autour de nos pratiques notamment en déambulant dans la ville mais pas que.
 

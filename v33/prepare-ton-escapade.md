@@ -1,7 +1,6 @@
 ---
 title: Prépare ton escapade
 description: Découvrir le rôle de Product owner en marchant
-image_url: https://github.com/walkingdev/product-owner/blob/master/media/cover-walking-dev.jpg?raw=true
 ---
 
 # Session apprendre ensemble
